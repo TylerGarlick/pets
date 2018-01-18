@@ -28,5 +28,7 @@
     "mocha": "^4.1.0",
     "nodemon": "^1.12.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "monk": "^6.0.5"
+  }
 }
